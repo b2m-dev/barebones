@@ -1,0 +1,5 @@
+"/Users/reed/Downloads/BareboneApp-2.2/project/barebone/build/android/gen/com/myb2m/pfc/ApplicationStylesheet.java"
+"/Users/reed/Downloads/BareboneApp-2.2/project/barebone/build/android/gen/com/myb2m/pfc/PfcActivity.java"
+"/Users/reed/Downloads/BareboneApp-2.2/project/barebone/build/android/gen/com/myb2m/pfc/PfcAppInfo.java"
+"/Users/reed/Downloads/BareboneApp-2.2/project/barebone/build/android/gen/com/myb2m/pfc/PfcApplication.java"
+"/Users/reed/Downloads/BareboneApp-2.2/project/barebone/build/android/gen/com/myb2m/pfc/R.java"

@@ -1,0 +1,11 @@
+2.2.0
+=====
+iOS7 support
+
+2.1.0
+=====
+Fix: Background property of ImageView does not work on Titanium version 3.1.2 and and above. (ProductDetails.js)
+
+2.0.0
+=====
+Initial release

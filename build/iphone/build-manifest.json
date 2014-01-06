@@ -1,0 +1,23 @@
+{
+	"target": "simulator",
+	"deployType": "development",
+	"deviceFamily": "universal",
+	"iosSdkPath": "/Users/reed/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/iphone",
+	"tiCoreHash": "77157e1ffaec640cf559356a147b6a4c",
+	"modulesHash": "d41d8cd98f00b204e9800998ecf8427e",
+	"modulesNativeHash": "d41d8cd98f00b204e9800998ecf8427e",
+	"gitHash": "d9182d6",
+	"name": "PFC",
+	"id": "com.myb2m.pfc",
+	"analytics": true,
+	"publisher": "B2M",
+	"url": "https://www.flypfc.com/",
+	"version": "2.0",
+	"description": "Precision Flight Control Product Dementration",
+	"copyright": "2013 by B2M",
+	"guid": "b4273e35-4bb3-433d-9197-dfcd832e0e37",
+	"skipJSMinification": true,
+	"forceCopy": false,
+	"forceCopyAll": false,
+	"encryptJS": false
+}
